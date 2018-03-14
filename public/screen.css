@@ -7,3 +7,17 @@ body {
   min-height: 100%;
   font: 16px / 1 sans-serif;
 }
+
+button {
+  display: flex; 
+  
+}
+
+h1 {
+  text-align: center;
+}
+
+.btn {
+  display: flex;
+  align-items: center; 
+}
